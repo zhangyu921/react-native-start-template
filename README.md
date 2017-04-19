@@ -28,9 +28,12 @@
 更改项目名字参考 http://www.jianshu.com/p/10eac28b300b
 
 ## 注意
-由于没有mac，需要自行测试下面这两个
+由于没有mac，所做的一切测试都是在Android环境下进行的。微笑 ）
+
+如需在IOS下使用，推荐检查如下面两个插件的部署：
 
 react-native-splash-screen
 
 react-native-vector-icons
 
+还有酌情添加react-navigation的样式。
